@@ -1,11 +1,13 @@
 This app requires python 3 to run.
 
-To initialize environment, go to base folder and run the following commands
+To initialize environment, go to the base folder and run the following commands
 
 ```
 py -3 -m venv env
 
 . env/bin/activate
+
+pip install Flask
 ```
 
 This will create your virutal environtment and initialize your environment
